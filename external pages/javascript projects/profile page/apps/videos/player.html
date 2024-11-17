@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="player.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+<!-- Video Viewer -->
+
+<div id="video_box">
+<video id="video_view">
+<source src="https://videos.pexels.com/video-files/8858435/8858435-sd_640_360_25fps.mp4" id="source"></source>
+</video>
+
+<div id="menu_box">
+<p id="speed_text"><i class="fa-solid fa-gauge-high speed_icon"></i> Playback Speed</p>
+<input type="range" min="0" max="2" id="speed-meter">
+
+
+
+</div>
+
+<div id="progress">
+<div id="progress_bar"></div></div>
+<div id="control">
+
+<p id="time">0:00 / 00:00</p>
+
+
+<i class="fa-solid fa-backward" id="back-icon"></i>
+	<i class="fa-solid fa-circle-play" id="play_icon"></i>
+	<i class="fa-solid fa-circle-pause" id="pause-icon"></i>
+<i class="fa-solid fa-forward" id="forward-icon"></i>
+
+
+<i class="fa-solid fa-volume-low" id="volume-icon"></i><i class="fa-solid fa-volume-xmark" id="mute-icon"></i>
+<i class="fa-solid fa-expand" id="expand-icon"></i>
+<i class="fa-solid fa-ellipsis-vertical" id="menu-icon"></i>
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+<script src="player.js"></script>	
+</body>
+</html>
