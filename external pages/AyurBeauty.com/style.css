@@ -1,0 +1,85 @@
+Homesheet
+body{background-image: url(C:\Users\Vikku Don\OneDrive\Desktop\8595104.jpg);background-color:rgba(0, 0, 0, 0.8);background-size: 1000px 1000px;background-repeat:no-repeat;padding:0;margin:0;}
+
+
+#h1_nav{width:100%;height:200px;box-sizing: border-box;float:left;background-color:#dffcc7;position: absolute	;}
+#logo{text-align:center;font-size:49px;font-family:NeoGothis ADF Std;color:#cc9933;margin-right:70px;margin-top:20px;}
+#logo_2{float:right;font-size:49px;font-family:Italiana;color:#cc9999;margin-right:500px;margin-top:-100px;}
+#home_table{width:750px;height:60px;float:right;position: absolute;right: 20px;}
+#home_2{font-family: Unbounded;background-color:#00ff94;border-radius: 10px;font-size: 15px;width:20%;text-align:center;}
+a{text-decoration:none;color:black;}
+a{text-decoration:none;color:black;}
+
+
+
+
+#login_1{width:350px;height:250px;float:right;margin-right:50px;background-color: #f9ea72;opacity: 80%;float:right;box-sizing: border-box;}
+#legend_1{font-family:Unbounded ;font-size: 23px;align:center;}
+#login_form{font-family:century gothic;font-size:18px;}
+#input_box{width:300px;height:23px;}
+#submit_btn{float:right;width:100px;height:35px;font-family:Unbounded black;}
+
+
+
+#register_1{width:400px;height:450px;float:right;margin-right:50px;background-color: #f9ea72;opacity: 80%;float:right;box-sizing: border-box;}
+#register_form{font-family:century gothic;font-size:18px;}
+#submit_btn2{float:right;width:100px;height:35px;font-family:Unbounded black;}
+#checkbox{float:left;}
+#terms{font-family: helvetica;font-size:12px;float:left	;margin: 0;padding: 0;margin-top: 3px;}
+#legend_2{font-family:Unbounded ;font-size: 23px;align:center;}
+
+
+
+#contact_form{width:100%;height:200px;background-color: #f3ff8e;float:left;box-sizing:border-box;}
+#cont_2{font-family:unbounded;margin:0;padding:0;font-size:30px;text-align: center;background-color: white;}
+#cont_add{font-family:century gothic;font-size:22px;float:left;margin-left:10px;line-height: 25px;margin-top: 10px;}
+#cont_nav{width:100%;height:202px;border-width: 2px;float:left;box-sizing: 	border-box;background-color: #f3ff8e;}
+#social_h1{font-family: Unbounded;font-size:30px;text-align: center;margin:0;padding:0;background-color: white;}
+#p_social{font-family: unbounded light;font-size:15px;float:right;margin-right:130px;}
+
+
+
+#prdt_sc{width: 100%;height: 1500px;float:left;box-sizing:border-box;}
+#prdt_div{width:100%;height:200px;float:left;}
+#products{font-family: Unbounded;font-size:27px;text-align: center;color:#8f934f;margin-top: 45px;}
+#prdt_tbl{width:95%;height:60px;float:left;margin-left: 2.5%;}
+#prdt_td{box-shadow:0px 3px 7px;border-width:2px;width:20%;background-color:#dbc4f2;text-align: center;font-family: unbounded light;font-size: 20px;border-radius: 30px;color:b9bc8b;margin: 0;padding: 0;}
+#prdt_in{width:35%;height:45px;float: left;margin-left: 5px;margin-top: 20px;font-size: 15px;font-family: sans-serif;}
+#search_in{width:80px;height:45px;margin-left: 2px;margin-top: 20px;font-size: 15px;font-family: sans-serif;}
+#face-powders{margin-top:50px;background-color:rgba(252, 232, 232,0.8 );width:100%;height: 380px;float: left;box-sizing: border-box;}
+#facepwdr-img{box-shadow:0px 5px 10px;background-color:#dd80c9;width:205px;height: 280px;border-width: 2px;box-sizing: border-box;float: left;margin: 30px;margin-top:25px;mask-image: inherit;border-radius: 20px;}
+
+#lipstick-div{background-color:rgba(252, 232, 232,0.8 );width:100%;height: 380px;float: left;box-sizing: border-box;font-family: nohemi semibold;font-size:30px;text-align: center;}
+#face_style2{margin:0;padding:0;margin-top: 20px;font-family: cinzel decorative;font-size:30px;text-align: center;font-weight: bold;}
+
+#cream-nav{background-color:rgba(252, 232, 232,0.8 );width:100%;height: 380px;float: left;box-sizing: border-box;border-width: 2px;font-family: nohemi semibold;font-size:30px;text-align: center;}
+footer{width: 100%;height: 50px;float: left;box-sizing: border-box;background-color: #82cfff}
+#dev-footer{font-family: arial;text-align:center;}
+#img-prdt{width:100%;height:205px;box-sizing: border-box;}
+#buy-tag{font-family:"Unbounded",sans-serif ;margin:0;padding:0;font-size: 13px;text-align:center;box-sizing: border-box;color:#280011;}
+#price-tag{font-family: unbounded;font-size:16px;float:left;margin-left: 10px;margin-top: 15px;}
+#strike-price{font-family: Unbounded;font-weight: lighter;font-size: 12px;float: left;margin-left: 4px;margin-top: 18px;}
+#buy-icon{margin: 0;padding: 0;float: right;margin-right: 75px;margin-top: 12px;}
+#buy-nav{width: 100%;height: 50px;background-color: #e5ff00;float: left;margin-top: 5px;border-radius: 20px;}
+#buy-now{font-family: unbounded;float: right;margin: 0;padding: 0;font-size: 12px;margin-top: -18px;margin-right: 7px;}
+
+
+#home_2:hover{background-color:white;color:#00ff94;transition: 0.2s;border-width: 2px;border-color:#00ff94 }
+#home_2:hover a{font-size: 20px;transition: 0.4s;}
+#prdt_td:hover{background-color: #e3ff04;transition: 0.3s;}
+#prdt_td:hover a{font-size: 23px;transition: 0.4s;}
+#buy-nav:hover{background-color: #ffe102;transition: 0.3s;}
+#buy-now:hover a{font-size:15px;transition: 0.4s;}
+#buy-icon:hover a{width:90%;height:90%;transition: 0.4s;}
+#input_box:focus{background-color: #a5e8ff;transition: 0.4s;}
+#p_social:active{color: red;}
+#p_social:visited{color: yellow;}
+#terms:checked{background-color:#ffe102;color:white;}
+#drop-down{width: 250px;height:180px;background-color:#f6ffdb;margin-top: 0px;border-radius: 8px;margin-left:105px;display: 	none;top: 50px;}
+#home_3:hover #drop-down{display: block;}
+#home_3{background-color:#f7ffc4;border-radius: 10px;width: 100px;height: 40px;float: right;position: absolute;margin-left: 20px;margin-top: 15px;}
+#menu-dot{float: right;width: 25px;height: 25px;margin-top: 5px;margin-right: 7px;}
+#menu-icon{margin:0;padding:0;font-size: 15px;font-family:"unbounded light" , sans-serif;float: left;margin-top: 10px;margin-left: 12px;font-weight: lighter;}
+li{font-family: "helvetica",Unbounded;font-size: 15px;font-weight: lighter;line-height: 30px;list-style: circle;}
+li:hover a{color: red;}
+h4[align=center]{color:red;float:right;}
