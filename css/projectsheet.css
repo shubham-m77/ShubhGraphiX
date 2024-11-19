@@ -16,8 +16,8 @@ a{text-decoration: 	none;border:none;}
 #row_2{width:100%;display: flex;box-sizing:border-box;margin-top:-20px; background:#20afff;}
 #main_text_2{font-family:unbounded semibold;font-size:30px;width:100%;color:#20afff;text-align:center;background:white;border-radius:20px 20px 0 0;}
 
-.column_2{width:25%;box-sizing:border-box;padding-left:20px;padding-right:20px;padding-top:20px;padding-bottom: 20px;}
-.graphic_box{width:100%;display:flex;flex-direction:column;border-radius:10px;}
+.column_2{display:flex;flex-direction:column;box-sizing:border-box;padding-left:20px;padding-right:20px;padding-top:20px;padding-bottom: 20px;}
+.graphic_box{width:100%;border-radius:10px;}
 .graphic_box img{width:100%;border-radius:10px;box-sizing:border-box;cursor:pointer; box-shadow:0 2px 20px #eee;}
 .graphic_box img:hover{width:102%;height:220px;transition:0.5s;}
 
@@ -26,23 +26,30 @@ a{text-decoration: 	none;border:none;}
 @media (min-width:992px)
 {#pc_menu{font-size:15px;width:100%;background:rgb(194, 255, 238);box-shadow:0 0 10px #eee;list-style:none;position: fixed;top:0;left:0;margin:0;padding:0;border-radius:0 0 20px 20px;display:block;height:10vh}
 .slicknav_menu{display: none;}
-#pc_menu li{display: inline-block;padding: 	20px;float:right;font-family:"unbounded",sans-serif;}
+#pc_menu li{display: inline-block;padding: 	20px;font-family:"unbounded",sans-serif;}
 #pc_menu li a{text-decoration: none;}
 #b_logo{width:130px;position: fixed;top:-32px;left:5px;}
 #pc_menu li a:hover{color:#ffb200;}}
+.column_2{width:25%;}
 
 
 
 /* Mobile Responsive*/
 @media (max-width:992px)
 {#pc_menu{display: none;}
-.slicknav_menu{display: block;}
+#brand_logo{margin-top:-5.5rem;width:120px;}
+.slicknav_menu{display: block;font-size:22px;}
+.slicknav_menu a{font-family:kanit;font-weight:400;}
 #project_div{margin-top:20px;}
-#main_text{font-size: 15px;}
-#row{margin-top:-10px;flex-direction: column;}
+#main_text{font-size: 26px;}
+#row{margin-top:-17px;flex-direction: column;}
 .column{width:100%;padding-bottom:0px;}
 .project_box img{height:100%;}
-.show_btn{font-size:13px;}
+.show_btn{font-size:20px;}
+.column_2{width:100%;}
+#main_text_2{font-size:22px;}
+
+#row_2{flex-direction: column;display: flex;margin-top:-15px}
 
 
 
