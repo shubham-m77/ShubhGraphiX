@@ -3,7 +3,7 @@ body{margin:0;padding:0;background-image:url("../images/black-abstract-bg.svg");
 #menu{display:none;}
 #brand_logo{margin-top:-62.5px;width:80px;}
 #project_div{width:100%;margin-top:100px;border-radius:20px 20px 0 0;}
-#main_text{font-family:unbounded semibold;font-size:30px;width:100%;color:#ffb642;text-align:center;background:white;border-radius:20px 20px 0 0;}
+#main_text{font-family:unbounded;font-size:30px;width:100%;color:#ffb642;text-align:center;background:white;border-radius:20px 20px 0 0;font-weight:600;}
 #row{width:100%;display: flex;box-sizing:border-box;margin-top:-20px; background:#ffb642;}
 .column{width:33.33%;box-sizing:border-box;padding-left:20px;padding-right:20px;padding-top:20px;padding-bottom: 20px;}
 .project_box{width:100%;display:flex;flex-direction:column;border-radius:10px;}
@@ -14,7 +14,7 @@ body{margin:0;padding:0;background-image:url("../images/black-abstract-bg.svg");
 a{text-decoration: 	none;border:none;}
 
 #row_2{width:100%;display: flex;box-sizing:border-box;margin-top:-20px; background:#20afff;}
-#main_text_2{font-family:unbounded semibold;font-size:30px;width:100%;color:#20afff;text-align:center;background:white;border-radius:20px 20px 0 0;}
+#main_text_2{font-family:unbounded;font-size:30px;width:100%;color:#20afff;text-align:center;background:white;border-radius:20px 20px 0 0;font-weight:600;}
 
 .column_2{display:flex;flex-direction:column;box-sizing:border-box;padding-left:20px;padding-right:20px;padding-top:20px;padding-bottom: 20px;}
 .graphic_box{width:100%;border-radius:10px;}
