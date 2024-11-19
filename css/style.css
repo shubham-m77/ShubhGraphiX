@@ -8,6 +8,8 @@ body{overflow-x: hidden;margin:0;padding:0;background-image:url("../images/black
 #name_text{font-family:"unbounded semibold", sans-serif;font-size:50px;color:#ffb200;text-shadow:0 0 10px #ffb200;}
 #semi_text{font-family:"unbounded extralight", sans-serif;font-size:15px;color:#e2eeff;margin-left: 143px;margin-top:-95px;}
 #name_line{width:45%;size:2px;margin-top:30px;margin-left:83px;border-color:#cefff1;}
+@font-face{font-family:Unbounded;
+    src: url(unbounded.woff2);}
 #summary_div{width:45%;size:2px;margin-top:20px;margin-left:82px;}
 #summary{font-family:montserrat;font-weight:300;font-size:15px;text-align:justify;color:white;margin-top:25px;}
 #header_img{float:right;margin-top:-70px;margin-right:70px;width:550px;}
